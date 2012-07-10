@@ -1,0 +1,37 @@
+body{
+	background-color: #DADADA;
+}
+
+#center-piece-text{
+	margin-top: 40px;
+	text-align: center;
+	font-family: Impact, Impact, Charcoal, sans-serif;
+	font-size: 22px;
+	font-style: italic;
+	color:#1f1f1f;
+}
+
+.extlinks{ 
+	text-align: center;
+	margin-top: 100px;
+	height: auto;
+}
+
+.extlinks>div{
+	text-align: center;
+	padding: 30px;
+	display: inline;
+}
+
+.extlinks img:hover{
+	opacity:1;
+}
+
+.extlinks img{
+	opacity:0.5;
+	width: 170px;
+	height: 170px;
+}
+
+p{
+}
