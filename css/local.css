@@ -1,0 +1,120 @@
+span {
+	-webkit-transition: all .4s ease;
+  	-moz-transition: all .4s ease;
+  	transition: all .4s ease;	
+}
+
+span:hover {
+	font-weight: 800
+}
+
+h1 { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 42px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 50px; 
+
+}
+
+h1 span:hover {
+	font-size: 44px;
+	line-height: 48px;
+}
+
+h2 { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 34px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 40px; 
+} 
+
+h2 span:hover {
+	font-size: 36px;
+	line-height: 38px;
+}
+
+h3 { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 24px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 700; 
+	line-height: 30px; 
+} 
+
+h3 span:hover {
+	font-size: 26px;
+	line-height: 28px;
+}
+
+p { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 14px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+	line-height: 20px; 
+} 
+
+blockquote { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 21px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+	line-height: 30px; 
+	-webkit-transition: all .5s ease;
+  	-moz-transition: all .5s ease;
+  	transition: all .5s ease;
+} 
+
+pre { 
+	font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", 
+	monospace; 
+	font-size: 13px; 
+	font-style: normal; 
+	font-variant: 
+	normal; 
+	font-weight: 400; 
+	line-height: 18.5714px; 
+	-webkit-transition: all .5s ease;
+  	-moz-transition: all .5s ease;
+  	transition: all .5s ease;
+}
+
+.full-height {
+	height : 100vh!important;
+}
+
+.one-third-down {
+	margin-top:15%;
+}
+
+.l-pad {
+	padding-left: 20%
+}
+
+.quarter-br {
+	line-height: 25%
+}
+
+.full-br {
+	line-height: 100%
+}
+
+#toggler { 
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+#toggler:hover { font-size: 64px; color: red; }
